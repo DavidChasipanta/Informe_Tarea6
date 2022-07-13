@@ -13,6 +13,7 @@
 
 # **2.MARCO TEÓRICO**
 ![image](https://user-images.githubusercontent.com/105617383/178643220-168ef73e-dba2-41a5-ba37-d8535291927c.png)
+![image](https://user-images.githubusercontent.com/105617383/178808008-183a6d38-eb20-42bc-8d16-5be0f8f662f4.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/178407374-22570a99-5d64-4c6c-82df-b1833ad9c4e1.png)
 ![image](https://user-images.githubusercontent.com/105617383/178407424-69c42860-818a-489b-bbb3-581f4fcac56f.png)
