@@ -65,6 +65,101 @@ cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fas
 **SECCIÓN 11–5 La fórmula de la onda seno** 
 
 **16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos**
+(a)15° (b)33° (c)50° (d)110°
+(e)70° (f)145° (g)250° (h)325°
+
+**18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno
+de los puntos siguientes:**
+
+(a) rad (b) rad (c) rad (d) rad
+
+(e) rad (f) rad (g) rad
+
+**20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.**
+
+**SECCIÓN 11–6 Introducción a los fasores**
+
+**22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.**
+
+![image](https://user-images.githubusercontent.com/105617383/178786898-56cae7a2-37f2-4a7e-a2e2-03b5d8707d88.png)
+
+**24. Determine la frecuencia para cada velocidad angular:**
+
+(a) 60 rad/s (b) 360 rad/s (c) 2 rad/s (d) 1256 rad/s
+
+**SECCIÓN 11–7 Análisis de circuitos de ca**
+
+**26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
+
+(a) (b) (c) (d) (e) Irms Iprom Ip Ipp i en el pico positivo**
+
+![image](https://user-images.githubusercontent.com/105617383/178787212-1c487e01-d362-4fc5-86e8-eb9c5aed4fb3.png)
+
+**28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.**
+
+![image](https://user-images.githubusercontent.com/105617383/178787302-2af8950c-13c0-4d7f-85fd-3902cb10d223.png)
+
+**SECCIÓN 11–8 Voltajes superpuestos de cd y de ca**
+
+**30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no
+alterno (valores negativos)?**
+
+**32.figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.**
+
+![image](https://user-images.githubusercontent.com/105617383/178787621-9be1b8cd-cb2d-4a53-8410-727fd4ec473d.png)
+
+**CCIÓN 11–9 Formas de onda no sinusoidales**
+
+**34.a frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms.
+¿Cuál es el ciclo de trabajo en porcentaje?**
+
+**36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86**
+
+**38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?**
+
+![image](https://user-images.githubusercontent.com/105617383/178787952-172495f3-a9f9-4483-8348-aceb4d43531b.png)
+
+**40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.**
+
+![image](https://user-images.githubusercontent.com/105617383/178788032-b1a6e7a2-c19f-484a-85c9-6328039b6925.png)
+
+**42.Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?**
+
+**SECCIÓN 11–10 El osciloscopio**
+
+**44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta
+prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados**
+
+![image](https://user-images.githubusercontent.com/105617383/178788399-39987656-e7a7-4e47-b758-48cb8f3caa5a.png)
+
+
+**PROBLEMAS CAPITULO 11**
+
+**2. Transforme los siguientes valores de microfarads a picofarads:**
+
+(a) (b) (C)
+
+**4. Transforme los siguientes valores de farads a microfarads;**
+
+(a) 0.0000001 F (b) 0.0022 F (c) 0.0000000015 F
+
+**6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?**
+
+**8.Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils.
+¿Cuál es la capacitancia?
+
+**10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria
+de las ciencias. Planea utilizar un dieléctrico de papel (er =2.5) de 8 X105 m de espesor. La feria de
+las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué
+tamaño serían las placas si pudieran ser construidas?**
+
+
+
+
+
+
+
+
 
 
 
@@ -90,5 +185,4 @@ Dentro del análisis de circuitos de ca tenemos que la potencia en circuitos de 
 Los capacitores son capaces de guardar carga eléctrica durante mucho tiempo después de que se corta la corriente en un circuito.
 
 Un capacitor o también conocido como condensador es un dispositivo capaz de almacenar energía a través de campos eléctricos (uno positivo y uno negativo), se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
-
-# **6.BIBLIOGRAFÍA
+# **6.BIBLIOGRAFÍA**
