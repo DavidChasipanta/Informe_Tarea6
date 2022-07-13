@@ -35,33 +35,36 @@
 
 **(a) 1 Hz (b) 60 Hz (c) 500 Hz (d) 1 kHz (e) 200 kHz (f) 5 MHz**
 
-4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
+**4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?**
 
-SECCIÓN 11–2 Fuentes de voltaje sinusoidal
+**SECCIÓN 11–2 Fuentes de voltaje sinusoidal**
 
-6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
+**6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?**
 
-SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
+**SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente**
 
-8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:
-(a) rms (b) pico a pico (c) promedio
+**8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:**
 
-10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio
+**(a) rms (b) pico a pico (c) promedio**
+
+**10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio***
 
 ![image](https://user-images.githubusercontent.com/105617383/178644517-897f1a57-d9aa-4fd5-9a72-e54fea012d19.png)
 
-SECCIÓN 11–4 Medición angular de una onda seno
+**SECCIÓN 11–4 Medición angular de una onda seno***
 
-12. Cambie los siguientes valores angulares de radianes a grados:
-(a) rad (b) rad (c) rad
-(d) rad (e) rad (f) rad
+**12. Cambie los siguientes valores angulares de radianes a grados:**
 
-14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa
-cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
+**(a) rad (b) rad (c) rad**
 
-SECCIÓN 11–5 La fórmula de la onda seno 
+**(d) rad (e) rad (f) rad**
 
-16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos
+**14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa
+cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?**
+
+**SECCIÓN 11–5 La fórmula de la onda seno** 
+
+**16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos**
 
 
 
