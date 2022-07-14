@@ -115,15 +115,43 @@ cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fas
 **SECCIÓN 11–5 La fórmula de la onda seno** 
 
 **16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos**
-(a)15° (b)33° (c)50° (d)110°
-(e)70° (f)145° (g)250° (h)325°
+
+**(a)15°**
+
+**(b)33°**
+
+**(c)50°**
+
+**(d)110°**
+
+**(e)70°**
+
+**f)145°**
+
+**(g)250°**
+
+**(h)325°**
+
+![image](https://user-images.githubusercontent.com/105617383/179096925-c0e20db0-39c1-4bed-b6df-a7876337397f.png)
 
 **18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno
 de los puntos siguientes:**
 
-(a) rad (b) rad (c) rad (d) rad
+**(a) π/8 rad**
 
-(e) rad (f) rad (g) rad
+**(b) π/4 rad** 
+
+**(c) π/2 rad** 
+
+**d) 3π/4 rad**
+
+**(e) π rad**
+
+**(f) 3π/2 rad** 
+
+**(g) 2π rad**
+
+![image](https://user-images.githubusercontent.com/105617383/179097734-0481f6bd-2af3-401d-8abb-0062e169986c.png)
 
 **20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.**
 
@@ -175,6 +203,8 @@ alterno (valores negativos)?**
 **32.figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.**
 
 ![image](https://user-images.githubusercontent.com/105617383/178787621-9be1b8cd-cb2d-4a53-8410-727fd4ec473d.png)
+
+![image](https://user-images.githubusercontent.com/105617383/179090433-0cdec78d-e497-4bf2-9b04-21b2b781907d.png)
 
 **CCIÓN 11–9 Formas de onda no sinusoidales**
 
