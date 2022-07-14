@@ -147,11 +147,21 @@ de los puntos siguientes:**
 
 **SECCIÓN 11–7 Análisis de circuitos de ca**
 
-**26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
+**26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:**
 
-(a) (b) (c) (d) (e) Irms Iprom Ip Ipp i en el pico positivo**
+**(a) Irms**
+
+**(b) Iprom**
+
+**(c) Ip**
+
+**(d) Ipp**
+
+**(e) i en el pico positivo**
 
 ![image](https://user-images.githubusercontent.com/105617383/178787212-1c487e01-d362-4fc5-86e8-eb9c5aed4fb3.png)
+
+![image](https://user-images.githubusercontent.com/105617383/179072325-183810bc-b844-445b-8fa4-92e24956bd4f.png)
 
 **28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.**
 
