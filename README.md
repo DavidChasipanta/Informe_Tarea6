@@ -27,6 +27,8 @@
 ![image](https://user-images.githubusercontent.com/105617383/178407760-ac31475b-5212-41b9-8775-62e79d1df5af.png)
 ![image](https://user-images.githubusercontent.com/105617383/178407846-93a214d0-ee89-484c-aadf-396beca7d349.png)
 ![image](https://user-images.githubusercontent.com/105617383/178407886-17eb2e0d-fd08-4186-8a10-8db0d379ab82.png)
+1![image](https://user-images.githubusercontent.com/105617383/179021485-f1b7170e-346c-4230-be14-1d2d87c344bb.png)
+![image](https://user-images.githubusercontent.com/105617383/179025106-58f0fe0c-f1b9-4311-b8d5-f2ebb71f0da6.png)
 
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
@@ -50,9 +52,15 @@
 
 **(d) 1 kHz**
 
+![image](https://user-images.githubusercontent.com/105617383/179032972-827cb7b1-9461-4f60-85ba-0b3d76e86699.png)
+
 **(e) 200 kHz**
 
+![image](https://user-images.githubusercontent.com/105617383/179033308-77665926-d1cf-4741-bde7-e1713f0d440a.png)
+
 **(f) 5 MHz**
+
+![image](https://user-images.githubusercontent.com/105617383/179033566-0c25aadc-5264-43ed-9afa-3bc7c84095c6.png)
 
 **4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?**
 
