@@ -296,22 +296,33 @@ prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico 
 
 * Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí, para incrementar el área de placas y se utilizan mas capas para incrementar el área de placas, por lo cual se incrementa la capacitancia.
 
-**16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la
-figura 12-66.**
+**16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.**
 
 ![image](https://user-images.githubusercontent.com/105617383/178789600-d6d19d9b-570d-44e4-a640-fdc79cd30445.png)
+
+![image](https://user-images.githubusercontent.com/105617383/179118098-d3f1b979-ea16-4c22-a1f7-31a4fa79ad80.png)
 
 **18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67. **
 
 ![image](https://user-images.githubusercontent.com/105617383/178789685-df78ebcf-3f74-476c-ab66-3f92bce47fe0.png)
 
+![image](https://user-images.githubusercontent.com/105617383/179118155-d66bd276-a398-431a-9b24-72aa9fbdbf21.png)
+
 **SECCIÓN 12–3 Capacitores en serie**
 
 **20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?**
 
+![image](https://user-images.githubusercontent.com/105617383/179118225-b83b3438-8701-42a5-9b7e-3faf91da5b92.png)
+
+
 **22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.**
 
 ![image](https://user-images.githubusercontent.com/105617383/178789871-89dd97b9-3977-438c-908c-8e6dc16d2584.png)
+
+![image](https://user-images.githubusercontent.com/105617383/179118366-679d4397-f95c-4d32-8cd3-9c613e617525.png)
+![image](https://user-images.githubusercontent.com/105617383/179118408-0fd72640-0270-4554-8839-7f5e2e0766ba.png)
+
+![image](https://user-images.githubusercontent.com/105617383/179118434-62ef05ca-3269-4795-8b72-21457cacd3a1.png)
 
 **24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor.**
 
