@@ -72,11 +72,13 @@
 
 **6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?**
 
+![image](https://user-images.githubusercontent.com/105617383/179067470-cf3dfd2a-d21e-4b2d-ac5b-fa652134e6b6.png)
+
 **SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente**
 
 **8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:**
 
-**(a) rms (b) pico a pico (c) promedio**
+**(a) rms  → (b) pico a pico  → (c) promedio**
 
 ![image](https://user-images.githubusercontent.com/105617383/179063408-a7d5b5dc-1d61-40e7-8906-6c12427e9dc4.png)
 
@@ -84,16 +86,31 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/178644517-897f1a57-d9aa-4fd5-9a72-e54fea012d19.png)
 
+![image](https://user-images.githubusercontent.com/105617383/179064713-fcf35bf6-b38a-4e4b-a4ba-55c2bea6b4d7.png)
+
 **SECCIÓN 11–4 Medición angular de una onda seno***
 
 **12. Cambie los siguientes valores angulares de radianes a grados:**
 
-**(a) rad (b) rad (c) rad**
+(a) π/8 rad 
 
-**(d) rad (e) rad (f) rad**
+(b) π/3 rad 
+
+(c) π/2 rad
+
+(d) 3π/5 rad 
+
+(e) 6π/5 rad 
+
+(f) 1.8π rad
+
+![image](https://user-images.githubusercontent.com/105617383/179065045-a751fcc1-ba84-4b6a-a11f-562929407e1d.png)
+
 
 **14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa
 cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?**
+
+* La onda con pico positivo de 75 grados tiene un desfase de 15 grados, mientras que la onda de 100 grados tiene un desfase de 10 grados. El ángulo de fase entre estas ondas es la resta del ángulo de 100 grados menos 75 grados, dando como resultado un ángulo de fase de 25 grados que se encuentra entre las dos ondas.
 
 **SECCIÓN 11–5 La fórmula de la onda seno** 
 
@@ -118,7 +135,15 @@ de los puntos siguientes:**
 
 **24. Determine la frecuencia para cada velocidad angular:**
 
-(a) 60 rad/s (b) 360 rad/s (c) 2 rad/s (d) 1256 rad/s
+**(a) 60 rad/s**
+
+**(b) 360 rad/s**
+
+**(c) 2 rad/s**
+
+**(d) 1256 rad/s**
+
+![image](https://user-images.githubusercontent.com/105617383/179071532-7d57e7a0-2d35-48bb-ba06-b478027bb131.png)
 
 **SECCIÓN 11–7 Análisis de circuitos de ca**
 
