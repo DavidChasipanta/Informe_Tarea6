@@ -165,6 +165,8 @@ de los puntos siguientes:**
 
 ![image](https://user-images.githubusercontent.com/105617383/178786898-56cae7a2-37f2-4a7e-a2e2-03b5d8707d88.png)
 
+![image](https://user-images.githubusercontent.com/105617383/179116025-72c9dbf6-3b5c-4d4a-820a-92c021434908.png)
+
 **24. Determine la frecuencia para cada velocidad angular:**
 
 **(a) 60 rad/s**
@@ -199,10 +201,13 @@ de los puntos siguientes:**
 
 ![image](https://user-images.githubusercontent.com/105617383/178787302-2af8950c-13c0-4d7f-85fd-3902cb10d223.png)
 
+![image](https://user-images.githubusercontent.com/105617383/179116179-9318e3d7-06ba-4c4a-8415-96f5c03173bb.png)
+
 **SECCIÓN 11–8 Voltajes superpuestos de cd y de ca**
 
-**30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no
-alterno (valores negativos)?**
+**30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante noalterno (valores negativos)?**
+
+![image](https://user-images.githubusercontent.com/105617383/179116459-4c24de35-8048-4c8d-9dcb-03ed5a2f3f02.png)
 
 **32.figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.**
 
@@ -215,7 +220,13 @@ alterno (valores negativos)?**
 **34.a frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms.
 ¿Cuál es el ciclo de trabajo en porcentaje?**
 
+![image](https://user-images.githubusercontent.com/105617383/179116572-7728ab0e-acd5-475c-9d08-e7cb3169907f.png)
+
 **36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86**
+
+![image](https://user-images.githubusercontent.com/105617383/179116810-4ae5f97e-450c-403f-9ded-52ef32285204.png)
+
+![image](https://user-images.githubusercontent.com/105617383/179116636-66774815-5d06-45c8-b15b-bd738b6ae443.png)
 
 **38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?**
 
@@ -304,7 +315,7 @@ figura 12-66.**
 
 
 
-**32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:**
+**32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:**
 
 (a) (b) (c) (d) (e) 10 ms 20 ms 30 ms 40 ms 50 ms
 
