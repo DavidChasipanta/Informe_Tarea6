@@ -191,7 +191,11 @@ alterno (valores negativos)?**
 
 ![image](https://user-images.githubusercontent.com/105617383/178788032-b1a6e7a2-c19f-484a-85c9-6328039b6925.png)
 
+![image](https://user-images.githubusercontent.com/105617383/179089735-d658fd6c-78f9-4727-8252-657b51e0c5cf.png)
+
 **42.Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?**
+
+![image](https://user-images.githubusercontent.com/105617383/179089618-b450bae6-920a-4a65-a6ee-30134251b2c8.png)
 
 **SECCIÓN 11–10 El osciloscopio**
 
@@ -288,6 +292,7 @@ llega a 6 V después de cerrar el interruptor**
 se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.***
 
 ![image](https://user-images.githubusercontent.com/105617383/178790688-5a6d9035-6c40-4403-a302-719066483e4f.png)
+
 
 **SECCIÓN 12–6 Capacitores en circuitos de ca**
 
