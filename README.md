@@ -155,6 +155,10 @@ de los puntos siguientes:**
 
 **20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.**
 
+* Problema 19: La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
+
+![image](https://user-images.githubusercontent.com/105617383/179100067-3cee991d-68b8-48e2-b01e-0eb5a7c4a3d5.png)
+
 **SECCIÓN 11–6 Introducción a los fasores**
 
 **22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.**
