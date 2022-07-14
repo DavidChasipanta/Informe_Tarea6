@@ -335,15 +335,25 @@ de los puntos siguientes:**
 
 ![image](https://user-images.githubusercontent.com/105617383/178790141-a9bc67ed-d948-42a1-9f9b-c638a4c2bc67.png)
 
+![image](https://user-images.githubusercontent.com/105617383/179119037-54011e34-2fcc-433a-a3c5-0d9ada0656aa.png)
+
 **28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?**
 
 ![image](https://user-images.githubusercontent.com/105617383/178790222-46aa72a2-83cb-46f6-bcaf-57c12a08b659.png)
+
+![image](https://user-images.githubusercontent.com/105617383/179119294-a594853c-910e-4e0e-8932-1e312c78786d.png)
 
 **SECCIÓN 12–5 Capacitores en circuitos de cd**
 
 **30. Determine la constante de tiempo para cada una de las combinaciones en serie:**
 
+**(a) R = 100 Ω, C = 1 μF**
 
+**(b) R = 10 MΩ, C = 47 pF**
+
+**(c) R = 4.7 kΩ, C = 0.0047 μF**
+
+**(d) R = 1.5 MΩ, C = 0.01 μF**
 
 **32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:**
 
