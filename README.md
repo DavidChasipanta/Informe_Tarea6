@@ -78,6 +78,8 @@
 
 **(a) rms (b) pico a pico (c) promedio**
 
+![image](https://user-images.githubusercontent.com/105617383/179063408-a7d5b5dc-1d61-40e7-8906-6c12427e9dc4.png)
+
 **10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio***
 
 ![image](https://user-images.githubusercontent.com/105617383/178644517-897f1a57-d9aa-4fd5-9a72-e54fea012d19.png)
