@@ -244,8 +244,7 @@ de los puntos siguientes:**
 
 **SECCIÓN 11–10 El osciloscopio**
 
-**44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta
-prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados**
+**44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados**
 
 ![image](https://user-images.githubusercontent.com/105617383/178788399-39987656-e7a7-4e47-b758-48cb8f3caa5a.png)
 
@@ -324,9 +323,11 @@ prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico 
 
 ![image](https://user-images.githubusercontent.com/105617383/179118434-62ef05ca-3269-4795-8b72-21457cacd3a1.png)
 
-**24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor.**
+**24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor.**
 
 ![image](https://user-images.githubusercontent.com/105617383/178789950-1d35bda3-ff02-4af5-8f68-23e16017d6ac.png)
+
+![image](https://user-images.githubusercontent.com/105617383/179118782-3050b029-e5d7-4c48-8899-244b92aedf31.png)
 
 **SECCIÓN 12–4 Capacitores en paralelo**
 
