@@ -249,34 +249,52 @@ prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico 
 
 ![image](https://user-images.githubusercontent.com/105617383/178788399-39987656-e7a7-4e47-b758-48cb8f3caa5a.png)
 
+![image](https://user-images.githubusercontent.com/105617383/179117171-ce951523-e0fd-4154-8ff7-4e93ae2c0e5c.png)
 
 **PROBLEMAS CAPITULO 11**
 
 **2. Transforme los siguientes valores de microfarads a picofarads:**
 
-(a) (b) (C)
+**(a) 0.1 μF**
+
+**(b) 0.0025 μF**
+
+**(c) 4.7 μF**
+
+![image](https://user-images.githubusercontent.com/105617383/179117477-903e06b0-c063-4ceb-b856-f4a73e169789.png)
 
 **4. Transforme los siguientes valores de farads a microfarads;**
 
-(a) 0.0000001 F (b) 0.0022 F (c) 0.0000000015 F
+**(a) 0.0000001** 
+
+**F (b) 0.0022 F**
+
+**(c) 0.0000000015 F**
+
+![image](https://user-images.githubusercontent.com/105617383/179117520-7b26c9af-8069-49f4-8c26-5bfbf70f4b6b.png)
 
 **6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?**
+
+![image](https://user-images.githubusercontent.com/105617383/179117567-7be0cd16-0e6c-4dcd-90dd-c7d6b327ef3c.png)
 
 **8.Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils.
 ¿Cuál es la capacitancia?**
 
-**10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria
-de las ciencias. Planea utilizar un dieléctrico de papel (er =2.5) de 8 X10-5 m de espesor. La feria de
-las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué
-tamaño serían las placas si pudieran ser construidas?**
+![image](https://user-images.githubusercontent.com/105617383/179117609-f1e455cb-1860-4f2e-9870-849adff5b08e.png)
 
-**12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene
-coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?**
+**10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er =2.5) de 8 X10-5 m de espesor. La feria delas ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?**
+
+![image](https://user-images.githubusercontent.com/105617383/179117662-d86e9288-7152-4225-af6e-4cf9a5099ae7.png)
+
+**12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?**
+
+![image](https://user-images.githubusercontent.com/105617383/179117862-e388987e-fd0b-4a55-9281-3ad474297744.png)
 
 **SECCIÓN 12–2 Tipos de capacitores**
 
-**14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área
-de placas?**
+**14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?**
+
+* Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí, para incrementar el área de placas y se utilizan mas capas para incrementar el área de placas, por lo cual se incrementa la capacitancia.
 
 **16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la
 figura 12-66.**
