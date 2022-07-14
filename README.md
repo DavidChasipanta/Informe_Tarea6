@@ -36,7 +36,23 @@
 
 **2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:**
 
-**(a) 1 Hz (b) 60 Hz (c) 500 Hz (d) 1 kHz (e) 200 kHz (f) 5 MHz**
+**(a) 1 Hz** 
+
+![image](https://user-images.githubusercontent.com/105617383/178899954-f2334e1e-4464-4947-a271-f007dac79a86.png)
+
+**(b) 60 Hz**
+
+![image](https://user-images.githubusercontent.com/105617383/178900623-f4c575fa-fd7e-4402-b59a-bdd6ccd3b3d1.png)
+
+**(c) 500 Hz**
+
+![image](https://user-images.githubusercontent.com/105617383/178901092-a19c039f-1e78-4f95-b523-b4cb64384250.png)
+
+**(d) 1 kHz**
+
+**(e) 200 kHz**
+
+**(f) 5 MHz**
 
 **4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?**
 
