@@ -40,15 +40,16 @@
 
 **(a) 1 Hz** 
 
-![image](https://user-images.githubusercontent.com/105617383/178899954-f2334e1e-4464-4947-a271-f007dac79a86.png)
+![image](https://user-images.githubusercontent.com/105617383/179034266-1689758a-4e73-4ef4-850a-5f094cfcb65b.png)
+
 
 **(b) 60 Hz**
 
-![image](https://user-images.githubusercontent.com/105617383/178900623-f4c575fa-fd7e-4402-b59a-bdd6ccd3b3d1.png)
+![image](https://user-images.githubusercontent.com/105617383/179034426-61806bf1-2ff2-4816-9266-4cbdaa7c8dc3.png)
 
 **(c) 500 Hz**
 
-![image](https://user-images.githubusercontent.com/105617383/178901092-a19c039f-1e78-4f95-b523-b4cb64384250.png)
+![image](https://user-images.githubusercontent.com/105617383/179034624-8c4abd1f-c2ca-4133-a467-ec918bcb7f8f.png)
 
 **(d) 1 kHz**
 
@@ -60,7 +61,8 @@
 
 **(f) 5 MHz**
 
-![image](https://user-images.githubusercontent.com/105617383/179033566-0c25aadc-5264-43ed-9afa-3bc7c84095c6.png)
+![image](https://user-images.githubusercontent.com/105617383/179034022-834a0600-76d1-4439-837b-aea0cfb48a36.png)
+
 
 **4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?**
 
