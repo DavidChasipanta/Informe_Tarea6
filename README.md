@@ -234,6 +234,18 @@ de los puntos siguientes:**
 
 ![image](https://user-images.githubusercontent.com/105617383/178787952-172495f3-a9f9-4483-8348-aceb4d43531b.png)
 
+(a) f = 1/T
+
+    f = 1/4 μs
+    
+    f = 250 kHz
+
+(b) f = 1/T
+
+    f = 1/30 ms
+    
+    f = 33.3 Hz
+    
 **40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.**
 
 ![image](https://user-images.githubusercontent.com/105617383/178788032-b1a6e7a2-c19f-484a-85c9-6328039b6925.png)
@@ -590,4 +602,7 @@ Dentro del análisis de circuitos de ca tenemos que la potencia en circuitos de 
 Los capacitores son capaces de guardar carga eléctrica durante mucho tiempo después de que se corta la corriente en un circuito.
 
 Un capacitor o también conocido como condensador es un dispositivo capaz de almacenar energía a través de campos eléctricos (uno positivo y uno negativo), se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
+
 # **6.BIBLIOGRAFÍA**
+
+Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
