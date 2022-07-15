@@ -573,6 +573,8 @@ V3eq=2.69 V
 
 # **4.VIDEO**
 
+https://youtu.be/hR2drbi450s
+
 # **5.CONCLUSIONES**
 
 Como conclusión cuando se conectan capacitores en serie, la capacitancia total es menor que el valor de la capacitancia más pequeña, esto se debe a que la separación efectiva entre las placas se incrementa. Para calcular la capacitancia total en serie se lo realiza de igual manera que la resistencia total de resistores dispuestos en paralelo.
