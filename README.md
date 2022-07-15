@@ -72,7 +72,9 @@
 
 **6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?**
 
-![image](https://user-images.githubusercontent.com/105617383/179067470-cf3dfd2a-d21e-4b2d-ac5b-fa652134e6b6.png)
+3600 rpm = 60 rps 
+
+f = 2(60)(rps) = 120 Hz 
 
 **SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente**
 
