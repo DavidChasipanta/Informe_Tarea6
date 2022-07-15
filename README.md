@@ -349,19 +349,74 @@ de los puntos siguientes:**
 
 **(a) R = 100 Ω, C = 1 μF**
 
+ꚍ =RC = (100 Ω)(1 * 10^-6F)= 0.0001 s
+
 **(b) R = 10 MΩ, C = 47 pF**
+
+ꚍ =RC = (1010^6Ω)(4.710^-11F)=0.0004 s 
 
 **(c) R = 4.7 kΩ, C = 0.0047 μF**
 
+ꚍ =RC = (4700 Ω)(4.7 * 10^-9F)=0.00002 s
+
 **(d) R = 1.5 MΩ, C = 0.01 μF**
+
+ꚍ =RC = (1.510^6 Ω)(110^-8F)=0.015 s
 
 **32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:**
 
-(a) (b) (c) (d) (e) 10 ms 20 ms 30 ms 40 ms 50 ms
 
 ![image](https://user-images.githubusercontent.com/105617383/178790442-71e97414-3094-44a1-8346-7af593d22972.png)
 
+**a)10µs**
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(10 µs /10 µs) =(10V)e^-1 =(10V)(0.367)=5.505 V
+
+**b)20µs**
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(20µs /10 µs) =(10V)e^-2 =(10V)(0.1353)=1.353 V
+
+**c)30µs**
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(30µs /10 µs) =(10V)e^-3 =(10V)(0.0497)=0.497 V
+
+**d.40µs**
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(40 µs /10 µs) =(10V)e^-4 =(10V)(0.0183)=0.183 V
+
+**e)50µs**
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(50 µs /10 µs) =(10V)e^-5 =(10V)(0.006)=0.06 V
+
 **34. Repita el problema 32 con los siguientes intervalos de tiempo:**
+
+**a)2µs**
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(2 µs /10 µs) =(10V)e^-(0.2) =(10V)(0.818)=8.18 V
+
+**b)5µs**
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(5µs /10 µs) =(10V)e^-(0.5) =(10V)(1.648)=16.48 V
+
+**c)15µs**
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(15µs /10 µs) =(10V)e^-(1.5) =(10V)(0.223)=2.23 V
 
 **36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial
 creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76
@@ -369,15 +424,28 @@ llega a 6 V después de cerrar el interruptor**
 
 ![image](https://user-images.githubusercontent.com/105617383/178790545-f16eff5c-fb2f-4d95-a19a-fbb5f1b3909e.png)
 
+![image](https://user-images.githubusercontent.com/105617383/179120656-ecfc16cc-baf9-428d-8159-255f20d5379b.png)
+
 **38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?**
 
 ![image](https://user-images.githubusercontent.com/105617383/178790624-787ab1e7-2778-47c0-9c80-af1f467c31a2.png)
+
+t=-(1.5µF)(1.0kΩ) ln(3V/25V)
+
+t=-(1500µs)(-2.12)
+
+t=3180 µs
 
 **40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t  10 ms después de que
 se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.***
 
 ![image](https://user-images.githubusercontent.com/105617383/178790688-5a6d9035-6c40-4403-a302-719066483e4f.png)
 
+R=-t/Cln(v/Vi)
+
+R=-(0.01s)/(1*10-9F)ln(7.2/10)
+
+R=30441.02 kΩ
 
 **SECCIÓN 12–6 Capacitores en circuitos de ca**
 
@@ -385,33 +453,121 @@ se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. D
 
 ![image](https://user-images.githubusercontent.com/105617383/178790783-c09c075b-acf3-4e09-9a12-0154a3c5e601.png)
 
+**a)**
+
+Xc=1/2πfC
+
+Xc= 1/2π(1000)(4.7*10^-11)
+
+Xc=3389.83 kΩ
+
+**b)**
+
+CT=10µF+15µF
+
+CT=25µ F
+
+Xc= 1/2π(1)(2.5*10-5F)
+
+Xc=6.36 kΩ
+
+**c)**
+
+CT=1/2 µF
+
+Xc= 1/2π(60)(5*10^-7F)
+
+Xc=5.31 kΩ
+
 **44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Æ? ¿Una
 XC de 1 kÆ?**
 
 ![image](https://user-images.githubusercontent.com/105617383/178790783-c09c075b-acf3-4e09-9a12-0154a3c5e601.png)
+ 
+**a)**
+
+f=1/2πCXc
+
+f= 1/2π(100)(4.7*10^-11)
+
+f= 4.7*10^-9 Hz
+
+**b)**
+
+f=1/2πCXc
+
+f= 1/2π(100)(2.5*10-5)
+
+f= 63.66 Hz
+
+**c)**
+
+f=1/2πCXc
+
+f= 1/2π(100)( 5*10^-7F)
+
+f= 3120.68 Hz
 
 **46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál
 es el valor del voltaje?**
 
-**48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81**
+I= V/Xc
+
+V=I/Xc
+
+V=(1mA)/2 π (10000)(4.7*10-9)
+
+V=3386275.39 V
+
+**48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81**
 
 ![image](https://user-images.githubusercontent.com/105617383/178791026-36c4e797-02c2-43d1-9153-cd6587298e32.png)
 
-**50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los
-otros capacitores. **
+CT=0.007 µF
+
+IT=758 *10^6 A
+
+V1=(0.007 µF)(10v)/(0.01 µF)
+
+V1=7 V
+
+V2=(0.007 µF)(10V)/(0.022 µF)
+
+V2=3.18 V
+
+V3=(0.007 µF)(10V)/(0.015 µF)
+
+V3=4.66 V
+
+V4=(0.007 µF)(10V)/(0.047 µF)
+
+V4=1.49 V
+
+V5eq=(0.007 µF)(10V)/(0.006 µF)
+
+V5eq=11.67 V
+
+**50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.**
 
 ![image](https://user-images.githubusercontent.com/105617383/178791082-8cbdec14-36be-4d32-b9e4-24cba0cd5eac.png)
 
+V1=(0.007 µF)(10v)/(0.01 µF)
+
+V1=7 V
+
+V2=(0.007 µF)(10V)/(0.022 µF)
+
+V2=3.18 V
+
+V3eq=(0.007 µF)(10V)/(0.026 µF)
+
+V3eq=2.69 V
+
 **SECCIÓN 12–7 Aplicaciones de los capacitores**
 
-**52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de
-10 kHz en un punto dado en un circuito amplificador?**
+**52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?**
 
-**SECCIÓN 12–8 Circuitos de capacitor conmutado**
-
-**54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz.
-¿Qué valor de resistor se emula?**
-
+* Cuando un capacitor grande es conectado desde un punto de polarizacion hacia tierra es cuando se produce una trayectoria de baja rectancia de voltaje en ca y deja el voltaje cd constante en algun punto dado.Entonces la frecuencia como es baja el capacitor de desvió pierde eficiencia debido a que la reactancia incrementa.
 
 # **4.VIDEO**
 
